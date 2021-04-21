@@ -1,9 +1,9 @@
 /*! 
- PROJECT: lb-ng-utilities 
+ PROJECT: utilities 
  VERSION: 1.5.0 
- AUTHOR: Ruther John Guevarra 
- GITHUB: https://github.com/terguevarra/
- LATEST BUILD DATE AND TIME: April 21, 2021 11:08 AM PHILIPPINE TIME*/
+ AUTHOR: .... 
+ GITHUB: https://github.com/gig-tech/
+ LATEST BUILD DATE AND TIME: April 21, 2021 11:49 AM PHILIPPINE TIME*/
 (function(){
     'use strict';
 
