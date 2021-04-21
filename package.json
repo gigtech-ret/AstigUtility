@@ -1,0 +1,15 @@
+{
+  "name": "lb-ng-utilities",
+  "version": "1.5.0",
+  "author": "Ruther John Guevarra",
+  "github": "https://github.com/terguevarra/",
+  "filename": "lb-ng-utilities",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-contrib-copy": "1.0.0"
+  }
+}
